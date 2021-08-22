@@ -1,0 +1,23 @@
+{
+  "name": "react-native-kevinxueleinativemoduleexample",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinxuelei/react-native-BGNativeModuleExample.git"
+  },
+  "keywords": [
+    "hello",
+    "ReactNative"
+  ],
+  "author": "kevinxuelei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinxuelei/react-native-BGNativeModuleExample/issues"
+  },
+  "homepage": "https://github.com/kevinxuelei/react-native-BGNativeModuleExample#readme"
+}
